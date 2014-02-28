@@ -49,6 +49,7 @@ It listens on serial port. When it receives the symbol 's', the system is switch
 ### Hardware
 #### Ports
 The display is connected:
+
 Display|Port
 -------|----
 Col1| PB0
