@@ -47,6 +47,9 @@ The slave mode communication uses the UART library by Peter Fleury.
 It listens on serial port. When it receives the symbol 's', the system is switched in slave mode and waits for the display data packets. The data packet starts with symbol 'f' and is followed by 40bytes with packet 64 5-bit brightness values. 
 
 ### Hardware
+#### Schematics
+The schematics are available in hardware/ subdirectory.
+
 #### Ports
 The display is connected:
 
