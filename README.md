@@ -1,6 +1,6 @@
 #BBG
-a small 8x8 LED Matrix eyecandy
-
+a little 8x8 LED Matrix eyecandy
+![BBG in action](https://alexkuehn.github.io/blob/bbg.png)
 
 ## Purpose
 This project displays some eyecandy on an 8x8 LED dotmatrix display with 32 brightness values.
